@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/vabhumhen/Victor-JavaProject/_apis/build/status/Feddy10.pipelines-java?branchName=master)](https://dev.azure.com/vabhumhen/Victor-JavaProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
